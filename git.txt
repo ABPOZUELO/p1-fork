@@ -1,0 +1,10 @@
+1. git clone:
+Este comando nos va a permitir clonar un respositorio dentro de nuestro ordenador para
+poder editarlo sin editar el original
+
+2.git status:Nos realizá un informe sobre los documentos dentro de nuestro
+repositorio ( si se han producido cambios)
+
+3.git add:Añade los cambios realizados en la fase de preparación. Con el punto . le
+indicamos que añada todos los archivos modificados a la vez, dejándolos listos para ser
+confirmados.

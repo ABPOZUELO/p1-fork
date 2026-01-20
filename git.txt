@@ -8,3 +8,15 @@ repositorio ( si se han producido cambios)
 3.git add:Añade los cambios realizados en la fase de preparación. Con el punto . le
 indicamos que añada todos los archivos modificados a la vez, dejándolos listos para ser
 confirmados.
+
+4. git commit -m "texto":Confirma los cambios preparados y los guarda permanentemente en
+ el historial local de nuestro ordenador. El mensaje -m etiqueta ese cambio para saber
+ qué hicimos
+
+ 5.git push: "Sube (empuja) los cambios confirmados desde mi repositorio local al
+ repositorio remoto en GitHub."
+
+ 6.git checkout: Este comando sirve para cambiar de rama. Nos permite salir de la
+ rama en la que estamos (por ejemplo, 'feature/1') y regresar a la rama principal
+ ('main'), recuperando el estado de los archivos tal y como están en esa línea
+  principal."

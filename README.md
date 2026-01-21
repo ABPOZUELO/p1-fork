@@ -90,4 +90,8 @@ tal y como están en esa línea principal.
 Switched to a new branch 'feature/1'
 Switched to branch 'main'
 ```
+### Evidencias y Capturas Originales
+Para cumplir con los requisitos de entrega (evidencias de entorno y capturas de imagen), adjunto los siguientes ficheros:
 
+* 📄 **Evidencia del entorno (Java/Git):** [entorno.txt](entorno.txt)
+* 📷 **Documento con capturas de pantalla:** [practica1.docx](practica1.docx)
